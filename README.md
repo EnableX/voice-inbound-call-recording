@@ -1,4 +1,4 @@
-# **Basic Client Examples to demonstrate Inbound Calls with Call Recordingusing Enablex Voice APIs. **
+# Inbound Call Recording: Utilizing EnableX Programmable Voice APIs for Comprehensive Client Demonstrations
 This example contains instructions how users can initiate Inbound Calls and Record the Call.
 
 
